@@ -1,0 +1,13 @@
+:root{
+/* COLORS */
+--primary-cooler-light:hsl(300, 69%, 71%);
+--primary-cooler-strong:hsl(257, 40%, 49%);
+
+
+
+/* TIPOGRAPHY */
+--font-family-Heading:'Open Sans', sans-serif;
+--font-family-body:'Poppins', sans-serif;
+
+}
+
